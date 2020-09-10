@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michel/CLionProjects/Project3/Board.hpp
+string
+-
+TileBehaviors.h
+/Users/michel/CLionProjects/Project3/TileBehaviors.h
+
+/Users/michel/CLionProjects/Project3/TextureHandler.h
+map
+-
+string
+-
+SFML/Graphics.hpp
+-
+
+/Users/michel/CLionProjects/Project3/TileBehaviors.h
+SFML/Graphics.hpp
+-
+
+/Users/michel/CLionProjects/Project3/main.cpp
+SFML/Graphics.hpp
+-
+SFML/Window/Mouse.hpp
+-
+map
+-
+iostream
+-
+Board.hpp
+/Users/michel/CLionProjects/Project3/Board.hpp
+TextureHandler.h
+/Users/michel/CLionProjects/Project3/TextureHandler.h
+
