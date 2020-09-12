@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game
+Minesweeper game designed from scratch using SFML Library.
